@@ -11,13 +11,13 @@ It's a popular west africa dish, known for it's vibrant color, rich taste, and s
 Red bell peppers, Vine tomatoes, Red onion, Red scotch bonnet, Garlic, Fresh ginger, Vegetable oil, Double concentrated tomato puree(DeRica), Curry powder, Dried thyme, Chicken stock cubes, Dried bay leaves, White basmati rice.
 
 ### PREPARATION
-1 Large red bell pepper ,cut into small pieces
-2 Medium inetomatoes,cut into small pieces
-1 Red onion, quatered
-2 Red scotch bonnet chillies, quatered
-3 Garlic cloves, smashed
-25g  Fresh ginger, peeled and roughly chopped
-100ml water
+1 Large red bell pepper ,cut into small pieces.
+2 Medium inetomatoes,cut into small pieces.
+1 Red onion, quatered.
+2 Red scotch bonnet chillies, quatered.
+3 Garlic cloves, smashed.
+25g  Fresh ginger, peeled and roughly chopped.
+100ml water.
 
 ### THE COOKING
 
