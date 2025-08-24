@@ -36,6 +36,7 @@ FOR THE RICE.
 
 ### THE COOKING
 
+
 ### WHAT IT LOOKS LIKE
 
 ![Jollof rice with fried plantian and Chicken](jollof-rice.jpg)
