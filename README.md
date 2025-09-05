@@ -29,6 +29,8 @@ FOR THE BASE.
 2 Red scotch bonnet chillies, quatered.
 
 3 Garlic cloves, smashed.
+ 
+White pepper
 
 25g  Fresh ginger, peeled and roughly chopped.
 
