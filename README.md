@@ -74,4 +74,4 @@ Meanwhile, rinse the rice throughly with cold water until the water runs clean, 
 Vibrant, Reddish-orange hue (which comes from the combination of TOMATOES, RED BELL PEPPERS and sometimes SCOTCH BONNET PEPPERS).
 
 ### WHAT YOU CAN ADD
-VEGETABLE, PLANTIAN
+VEGETABLE, PLANTIAN, HOMEMADE COLESLAW(SALAD)
