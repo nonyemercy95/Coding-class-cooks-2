@@ -2,6 +2,8 @@
 This is a git repository we use to learn about git by creating recipes
 
 ## JOLLOF RICE RECIPE
+
+![jollofrice](image.png)
 The dish is a staple across west africa, with each country and region boasting it's own unique variations and preferred methods of preparations.
 
 ### ABOUT THE RECIPE
@@ -64,6 +66,7 @@ Meanwhile, rinse the rice throughly with cold water until the water runs clean, 
 ### WHAT IT LOOKS LIKE
 
 ![Jollof rice with fried plantian and Chicken](jollof-rice.jpg)
+
 Vibrant, Reddish-orange hue (which comes from the combination of TOMATOES, RED BELL PEPPERS and sometimes SCOTCH BONNET PEPPERS).
 
 ### WHAT YOU CAN ADD
