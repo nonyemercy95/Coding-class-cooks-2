@@ -18,7 +18,7 @@ Red bell peppers, Vine tomatoes, Red onion, Red scotch bonnet, Garlic, Fresh gin
 
 ### PREPARATION
 
-FOR THE BASE.
+#### FOR THE BASE
 
 1 Large red bell pepper ,cut into small pieces.
 
@@ -36,7 +36,7 @@ White pepper
 
 100ml water.
 
-FOR THE RICE.
+#### FOR THE RICE
 
 150ml vegetable oil.
 
