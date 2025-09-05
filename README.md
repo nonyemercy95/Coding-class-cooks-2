@@ -4,7 +4,7 @@ This is a git repository we use to learn about git by creating recipes
 ## JOLLOF RICE RECIPE
 
 ![jollofrice](image.png)
-![alt text](image-1.png)
+
 The dish is a staple across west africa, with each country and region boasting it's own unique variations and preferred methods of preparations.
 
 ### ABOUT THE RECIPE
